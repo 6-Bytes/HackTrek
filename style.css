@@ -2,7 +2,7 @@
 
     font-family: Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
