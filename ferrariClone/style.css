@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.topMost{
+    display:flex;
+    justify-content:space-between;
+    background-color: #e42528;
+    height:60px;
+}
+#slogo{
+    width:7%;
+    height:100%;
+    margin:0;
+
+}
+
+
+.searchbtn{
+    background-color:#f8e823;
+    height:100%;
+    width:3rem;
+    margin:0rem;
+    border:0rem;
+}
+.searchBar{
+    height:100%;
+    width:16rem;
+    margin:0;
+    background-color: black;
+    border-radius: 20px;
+}
+.searchCat{
+     background-color:rgb(244, 243, 243);
+     height:100%;
+     width:3rem; 
+}
+.formsearch{
+   
+    height:100%;
+}
+.shpci{
+    background-color:#dccc1b;
+    color:rgb(14, 1, 1);
+    height:3rem;
+    width:6rem;
+    font-size:1rem;
+}
+.csize{
+    font-size:2rem;
+}
+
+.content{
+    height: 1000px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.footer{
+    height:300px;
+    background-color: #000000;
+    color:#b9b9b9;
+    
+}
+
+
+
+body{
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img{ 
+   width: 90%;
+   height: 35%;
+   border-radius: 10px;
+   margin-top: 20px ;
+   margin-bottom:0px ;
+}
+
+h2{ padding-top: 0%;}
+
+.card{ 
+    background-color: navajowhite;
+    width: 270px;
+    height: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    display:flex;
+    height:40px;
+    justify-content: space-around;
+    background-color: #f8e823;
+}
+.foptions{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:20px;
+    color:#b9b9b978;
+}
+
+.foptions  li:hover{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:20px;
+    color:white;
+}
+.show_more button{
+    background-color: #000000;
+    color:white;
+    margin:20px;
+    height:20px;
+    width:75px;
+    border-radius: 20px;
+}
+
+.show_more button:hover{
+    background-color: #fffbfb;
+    color: #000000;;
+    margin:20px;
+    height:20px;
+    width:75px;
+    border-radius: 20px;
+}
+
+
+
+
+

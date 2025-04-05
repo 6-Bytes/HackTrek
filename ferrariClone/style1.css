@@ -1,0 +1,40 @@
+body{ 
+    background-color: rgb(53, 51, 51);
+}
+
+car-img{ 
+    width: 100%;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.card{ 
+    width: 80vw;
+    margin: 3vw;
+}
+
+.others{ 
+    width: 20%;
+}
+
+.sideimage{ 
+    
+width:65%;
+border-radius: 10px;
+border: 1px,solid,black;
+
+}
+
+#now{
+
+  border: 10px,solid, #f8e823;
+}
+
+.button{ 
+   background-color: rgb(170, 15, 15);
+   width: 100px;
+   color: aliceblue;
+}
