@@ -1,16 +1,18 @@
 .body{ 
 
     font-family: Calibri, 'Trebuchet MS', sans-serif;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+
+    background-color: aqua;
 }
 
 
 
 .signin{ 
     background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   /*  padding-left: 5vw;
     padding-right: 5vw;
     margin-right:20vw;
