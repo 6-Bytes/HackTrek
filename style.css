@@ -56,3 +56,8 @@ button:hover{
   background-color: greenyellow;
 }
 
+.navbar{
+  display:flex;
+  justify-content: end;
+  background-color: blueviolet
+}  
