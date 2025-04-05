@@ -1,4 +1,21 @@
 .body{ 
 
     font-family: Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+
+
+.signin{ 
+    background-color: blueviolet;
+  /*  padding-left: 5vw;
+    padding-right: 5vw;
+    margin-right:20vw;
+    margin-left: 20vw;
+    margin-top: ;*/
+}  
+
+
+
