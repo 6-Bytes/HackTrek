@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+.topMost{
+    display:flex;
+    justify-content:space-between;
+    background-color: black;
+}
+#slogo{
+    width:7rem;
+    height:3rem;
+
+}
+.searchbtn{
+    background-color:rgb(255, 136, 0);
+    height:100%;
+    width:3rem;
+    margin:0rem;
+    border:0rem;
+}
+.searchBar{
+    height:100%;
+    width:16rem;
+    margin:0;
+}
+.searchCat{
+     background-color:rgb(244, 243, 243);
+     height:100%;
+     width:3rem; 
+}
+.formsearch{
+    background-color:white;
+    height:100%;
+}
+.shpci{
+    background-color:black;
+    color:white;
+    height:3rem;
+    width:6rem;
+    font-size:1rem;
+}
+.csize{
+    font-size:2rem;
+}
